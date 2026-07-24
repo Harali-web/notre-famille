@@ -1,6 +1,12 @@
-# Notre famille
+# Notre famille — Arbre généalogique
 
-Application web (PWA) : arbre généalogique, archives et mémoire de la famille.
-Fonctionne hors-ligne une fois ouverte, installable sur téléphone.
+Application PWA pour gérer l'arbre généalogique familial avec support hors-ligne.
 
-Site : https://harali-web.github.io/notre-famille/
+Disponible à : https://harali-web.github.io/notre-famille/
+
+## Fonctionnalités
+- 📱 Application mobile-first
+- 🔌 Fonctionne hors-ligne
+- 👨‍👩‍👧‍👦 Gestion complète de l'arbre généalogique
+- 🌙 Mode sombre
+- 📊 Statistiques familiales
